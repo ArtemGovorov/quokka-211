@@ -12,8 +12,6 @@
     "jsdom-quokka-plugin": "^1.0.13"
   },
   "quokka": {
-    "pro": true,
-    "node": "/Users/kg/.nvm/versions/node/v8.11.1/bin/node",
     "plugins": [
       "jsdom-quokka-plugin"
     ],
